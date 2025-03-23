@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Tektur:wght@400..900&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Tektur", sans-serif;
+
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.App{
+    min-height: 100vh;
+    color: aliceblue;
+    background: linear-gradient(to bottom, #122b4e, #1c3b5a, #2a4b6c);
+}
