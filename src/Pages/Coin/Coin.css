@@ -1,0 +1,32 @@
+.coin{
+    padding: 10px;
+    display:flex ;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+.coin-name{
+    text-align: center;
+}
+.coin-name img{
+    width: 200px;
+    margin-bottom: 10px;
+}
+.coin-chart{
+    width: 60%;
+    border-radius: 10px;
+
+}
+ul{
+    list-style: none;
+    display: flex;
+    gap: 10px;
+    padding: 0;
+}
+.coin-info{
+    background-color: rgb(171, 64, 64);
+    padding: 30px;
+    border-radius: 10px;
+}
+

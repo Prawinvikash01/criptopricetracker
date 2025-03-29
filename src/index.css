@@ -15,5 +15,13 @@ a{
 .App{
     min-height: 100vh;
     color: aliceblue;
-    background: linear-gradient(to bottom, #122b4e, #1c3b5a, #2a4b6c);
+    background: linear-gradient(to bottom, #3a1c71, #d76d77, #ffaf7b);
+
+
+}
+body{
+    height: 100vh;
+    width: 100vw;
+    background: #3a1c71;
+    
 }
